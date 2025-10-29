@@ -4,3 +4,5 @@
 /prisma/migrations
 .DS_Store
 *.tar
+/tmp
+ticket_system.json
